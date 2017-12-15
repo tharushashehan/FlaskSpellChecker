@@ -1,0 +1,146 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Grammer Checker</title>
+<!-- Meta tag Keywords -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Spell and grammer checker" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- Meta tag Keywords -->
+
+<!-- css files -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="static/Css/style.css" type="text/css" media="all" /> <!-- Style-CSS -->
+<!-- //css files -->
+
+<!-- online-fonts -->
+<link href="//fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet">
+<!-- //online-fonts -->
+
+</head>
+<body>
+	<!--<h1 class="agile-head">Smart Spell Checker</h1>-->
+    <!--<img src="static/images/GammerChecker.png" width="20" height="40" alt=" " />-->
+    <img src="static/images/GammerChecker.png" width="100" height="120" alt=" " /> <h1 class="agile-head">  අකුරු සොදුව - සියබස සුබසක් කරනු රිසියෙනි</h1>
+	<div class="wrap">
+		<div class="total-content">
+
+			<!-- Login-form -->
+			<div class="top-grids-222">
+				<div class="w3l-main">
+				   <!--<h3>Type Here</h3>-->
+                    <h3>මෙහි වාක්‍ය ඇතුල් කරන්න</h3>
+					   <!--<form id="Upload_Form" action="http://localhost:50000/uploader" method="POST" enctype="multipart/form-data">-->
+                     <form id="Upload_Form" method="POST" enctype="multipart/form-data">
+							<input id="InputText" type="text" class="name" name="text" placeholder="වාක්‍ය මෙතන" required="">
+							<!--<input type="password" class="password" name="password" placeholder="Password" required=""> -->
+							<!--<input id="UploadInput" onclick="GetResult()" type="submit" name="my-form" value="යොමු කරන්න">-->
+                         <input id="UploadInput" onclick="GetResult()" type="button" name="my-form" value="යොමු කරන්න">
+						</form>
+				</div>
+			</div>
+			<!-- //Login-form -->
+
+            <!-- Profile-form -->
+			<div class="top-grids">
+				<div class="profile-agile">
+					<!--<h2>Result set</h2>-->
+                    <h2>ප්‍රතිපල යොමුව</h2>
+					<div class="w3layouts">
+						<img src="static/images/play2.png" alt=" " />
+						<!--<h3>Grammer mistakes are highlighted bellow</h3>-->
+                        <h3>වාක්‍යයේ ඇතිවූ ගැටළු සහිත තැන් පහතින්</h3>
+						<label class="line"></label>
+						<p id="resultString">ඔබගේ සෙවුම සිදු කරන්න.</p>
+					</div>
+					<div class="agileits-w3layouts">
+						<div class="w3l">
+							<h4>කාලය</h4>
+							<h5 id="resultTense">කාලය මෙහි දැක්වෙනු ඇත</h5>
+						</div>
+						<div class="w3-agile">
+							<h4>වාචි පද</h4>
+							<h5 id="numberVal">වාචය මෙහි දැක්වෙනු ඇත</h5>
+						</div>
+						<div class="clear"></div>
+					</div>
+				</div>
+			</div>
+			<!-- //Profile-form -->
+
+			<!-- Register-form -->
+			<!--<div class="top-grids-3">
+				<div class="w3l-main-2">
+				   <h3>Register Here</h3>
+					   <form action="#" method="post">
+							<input type="text" class="name" name="username" placeholder="First Name" required="">
+							<input type="email" class="email" placeholder="E-Mail" name="email" required="">
+							<input type="password" class="password" placeholder="Password" name="password" required="">
+							<input type="password" class="password" placeholder="Confirm Password" name="password" required="">
+							<input type="submit" value="Register">
+						</form>
+				</div>
+			</div> -->
+			<div class="clear"></div>
+			<!-- //Register-form -->
+		</div>
+	</div>
+
+        <!--Error Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">යම් දෝෂයක් පැන නැගී ඇත</h4>
+                </div>
+                <div class="modal-body">
+                    <p>කරුණාකර අන්තර්ජාල සම්බන්ධය නැවත පරීක්ෂා කරන්න</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            <!--Error Modal 02 -->
+    <div class="modal fade" id="myModal02" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">යම් දෝෂයක් පැන නැගී ඇත</h4>
+                </div>
+                <div class="modal-body">
+                    <p>යොමු කිරීමට ප්‍රථම වාක්‍යය ඇතුළු කරන්න</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+		<!-- copyright -->
+		<div class="copyright">
+			<p> © 2017 Spell checker. All rights reserved | Design by <a href="http://www.tresetsolutions.com">treset solutions</a></p>
+		</div>
+		<!-- //copyright -->
+
+	<!-- js -->
+    <script type="text/javascript" src="static/Scripts/jquery-2.1.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<!-- audio-player js -->
+			<script src="static/Scripts/all.js" type="text/javascript"></script>
+            <script src="static/Scripts/index.js" type="text/javascript"></script>
+		<!--  audio-player js -->
+	<!-- //js -->
+
+</body>
+</html>

@@ -1,0 +1,3836 @@
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F3', GEN='MA', NUM='sg', PER='T']
+      (PrN[CASE='F3', GEN='MA', NUM='sg', PER='T'] ඔහුට))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] ලියුමක්))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] යවමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බත්))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බත්))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බත්))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බත්))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බත්))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බත්))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බත්))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බත්))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බත්))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කමු)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+    (N[CASE='F1', GEN='NE', NUM='pl'] ))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+      (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බත්))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කඩමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කඩමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කඩමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කඩමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කඩමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කඩමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කඩමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කඩමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කඩමු)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+    (N[CASE='F1', GEN='NE', NUM='pl'] ))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+      (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] කඩමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (ADVP[] (Adv[] සතුටින්))
+    (IV[NUM='pl', PER='F', TENSE='Npast', +VLT] ඉඳිමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (ADVP[] (Adv[] සතුටින්))
+    (IV[NUM='pl', PER='F', TENSE='Npast', +VLT] ඉඳිමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (ADVP[] (Adv[] සතුටින්))
+    (IV[NUM='pl', PER='F', TENSE='Npast', +VLT] ඉඳිමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (ADVP[] (Adv[] සතුටින්))
+    (IV[NUM='pl', PER='F', TENSE='Npast', +VLT] ඉඳිමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (ADVP[] (Adv[] සතුටින්))
+    (IV[NUM='pl', PER='F', TENSE='Npast', +VLT] ඉඳිමු)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+    (N[CASE='F1', GEN='NE', NUM='pl'] ))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+      (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+    (ADVP[] (Adv[] සතුටින්))
+    (IV[NUM='pl', PER='F', TENSE='Npast', +VLT] ඉඳිමු)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='F']
+    (PrN[CASE='F1', NUM='pl', PER='F'] අපි))
+  (VP[GEN=?G, NUM='pl', PER='F', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='MA', NUM='sg'] හිඟන්නාට))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] සහල්))
+    (TV[NUM='pl', PER='F', TENSE='Npast', +VLT] දෙමු)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] අම්බලමක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] අම්මා))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] නගරයට))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ගියාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] අම්මා))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] නගරයට))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ගියාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] අම්මා))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] නගරයට))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ගියාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] අම්මා))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] නගරයට))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ගියාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] අම්මා))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] නගරයට))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ගියාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] අම්මා))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] නගරයට))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ගියාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] අම්මා))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] නගරයට))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ගියාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] අම්මා))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] නගරයට))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ගියාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] අම්මා))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] නගරයට))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ගියාය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] අම්මා))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] නගරයට))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ගියාය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] අම්මා))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] නගරයට))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ගියාය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] අම්මා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බත්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] උයයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] අම්මා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බත්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] උයයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] අම්මා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බත්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] උයයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අයියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කඩයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අයියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කඩයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අයියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කඩයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අයියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කඩයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අයියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කඩයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අයියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කඩයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අයියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කඩයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අයියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කඩයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අයියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කඩයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අයියා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කඩයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අයියා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කඩයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අයියා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] මල්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කඩයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අශ්වයා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (ADVP[] (Adv[] තදින්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] දුවයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අශ්වයා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (ADVP[] (Adv[] තදින්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] දුවයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අශ්වයා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (ADVP[] (Adv[] තදින්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] දුවයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අශ්වයා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (ADVP[] (Adv[] තදින්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] දුවයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අශ්වයා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (ADVP[] (Adv[] තදින්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] දුවයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අශ්වයා))
+    (ADVP[] (Adv[] තදින්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] දුවයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අශ්වයා))
+    (ADVP[] (Adv[] තදින්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] දුවයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] අශ්වයා))
+    (ADVP[] (Adv[] තදින්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] දුවයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] අහස))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ගොරවයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ඇත්තු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගඟට))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] බසිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ඇත්තු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගඟට))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] බසිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ඇත්තු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගඟට))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] බසිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ඇත්තු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගඟට))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] බසිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ඇත්තු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගඟට))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] බසිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ඇත්තු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගඟට))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] බසිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ඇත්තු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගඟට))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] බසිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ඇත්තු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගඟට))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] බසිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ඇත්තු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගඟට))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] බසිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+    (N[CASE='F1', GEN='NE', NUM='pl'] ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F1', GEN='MA', NUM='pl'] ඇත්තු))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගඟට))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] බසිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ඇත්තු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] පෙරහැර))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (ADJP[] (Adj[] අලංකාර))
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] කළහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ඇත්තු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] පෙරහැර))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (ADJP[] (Adj[] අලංකාර))
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] කළහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ඇත්තු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] විල))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (ADJP[] (Adj[] බොර))
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] කරති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ඇත්තු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] විල))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (ADJP[] (Adj[] බොර))
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] කරති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඇතා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ගස))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] කැඩුවේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඇතා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ගස))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] කැඩුවේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඇතා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ගස))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] කැඩුවේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඇතා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ගස))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] කැඩුවේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඇතා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ගස))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] කැඩුවේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඇතා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ගස))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] කැඩුවේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඇතා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ගස))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] කැඩුවේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඇතා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ගස))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] කැඩුවේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඇතා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ගස))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] කැඩුවේය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඇතා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ගස))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] කැඩුවේය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඇතා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ගස))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] කැඩුවේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඇතා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ගස))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] කැඩුවේය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඉර))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පායයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+    (N[CASE='F1', GEN='NE', NUM='pl'] ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] උපාසකයා))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] පන්සලට))
+    (IV[NUM='pl', PER='T', TENSE='past', +VLT] ගියහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] උපාසිකාව))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F2', DEF='TRue', GEN='MA', NUM='sg'] බුදුන්))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] වැන්දාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] උපාසිකාව))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F2', DEF='TRue', GEN='MA', NUM='sg'] බුදුන්))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] වැන්දාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] උපාසිකාව))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F2', DEF='TRue', GEN='MA', NUM='sg'] බුදුන්))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] වැන්දාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] උපාසිකාව))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F2', DEF='TRue', GEN='MA', NUM='sg'] බුදුන්))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] වැන්දාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] උපාසිකාව))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F2', DEF='TRue', GEN='MA', NUM='sg'] බුදුන්))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] වැන්දාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] උපාසිකාව))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F2', DEF='TRue', GEN='MA', NUM='sg'] බුදුන්))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] වැන්දාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] උපාසිකාව))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F2', DEF='TRue', GEN='MA', NUM='sg'] බුදුන්))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] වැන්දාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] උපාසිකාව))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F2', DEF='TRue', GEN='MA', NUM='sg'] බුදුන්))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] වැන්දාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] උපාසිකාව))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F2', DEF='TRue', GEN='MA', NUM='sg'] බුදුන්))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] වැන්දාය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] උපාසිකාව))
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F2', DEF='TRue', GEN='MA', NUM='sg'] බුදුන්))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] වැන්දාය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] උපාසිකාව))
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F2', DEF='TRue', GEN='MA', NUM='sg'] බුදුන්))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] වැන්දාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඌරා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] බිම))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] හාරයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඌරා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] බිම))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] හාරයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඌරා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] බිම))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] හාරයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඌරා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] බිම))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] හාරයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඌරා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] බිම))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] හාරයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඌරා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] බිම))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] හාරයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඌරා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] බිම))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] හාරයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඌරා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] බිම))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] හාරයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඌරා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] බිම))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] හාරයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඌරා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] බිම))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] හාරයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඌරා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] බිම))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] හාරයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ඌරා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] බිම))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] හාරයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (Det[] ඒ)
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] ගසෙහි))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='MA', NUM='sg'] වඳුරෙක්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (Det[] ඒ)
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] ගසෙහි))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='MA', NUM='sg'] වඳුරෙක්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (Det[] ඒ)
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] ගසෙහි))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='MA', NUM='sg'] වඳුරෙක්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (Det[] ඒ)
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] ගසෙහි))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='MA', NUM='sg'] වඳුරෙක්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='FE', NUM='sg']
+      (Det[] ඒ)
+      (N[CASE='F3', DEF='TRue', GEN='FE', NUM='sg'] ස්ත්‍රියට))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (ADJP[] (Adj[] මෝඩ))
+      (N[CASE='F1', -DEF, GEN='MA', NUM='sg'] පුතෙක්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='FE', NUM='sg']
+      (Det[] ඒ)
+      (N[CASE='F3', DEF='TRue', GEN='FE', NUM='sg'] ස්ත්‍රියට))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (ADJP[] (Adj[] මෝඩ))
+      (N[CASE='F1', -DEF, GEN='MA', NUM='sg'] පුතෙක්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='FE', NUM='sg']
+      (Det[] ඒ)
+      (N[CASE='F3', DEF='TRue', GEN='FE', NUM='sg'] ස්ත්‍රියට))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (ADJP[] (Adj[] මෝඩ))
+      (N[CASE='F1', -DEF, GEN='MA', NUM='sg'] පුතෙක්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (Det[] ඒ)
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='FE', NUM='sg'] ස්ත්‍රියට))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (ADJP[] (Adj[] මෝඩ))
+      (N[CASE='F1', -DEF, GEN='MA', NUM='sg'] පුතෙක්))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඔරුව))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] ගඟෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පාවෙයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඔරුව))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] ගඟෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පාවෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] ඔරුව))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] ගඟෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] පාවෙයි)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='T']
+    (PrN[CASE='F1', NUM='pl', PER='T'] ඔවුහු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F2', GEN='MA', NUM='pl'] සතුන්))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] මරති)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='T']
+    (PrN[CASE='F1', NUM='pl', PER='T'] ඔවුහු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F2', GEN='MA', NUM='pl'] සතුන්))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] මරති)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='T']
+    (PrN[CASE='F1', NUM='pl', PER='T'] ඔවුහු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F2', GEN='MA', NUM='pl'] සතුන්))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] මරති)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='T']
+    (PrN[CASE='F1', NUM='pl', PER='T'] ඔවුහු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F2', GEN='MA', NUM='pl'] සතුන්))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] මරති)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='T']
+    (PrN[CASE='F1', NUM='pl', PER='T'] ඔවුහු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F2', GEN='MA', NUM='pl'] සතුන්))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] මරති)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='T']
+    (PrN[CASE='F1', NUM='pl', PER='T'] ඔවුහු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F2', GEN='MA', NUM='pl'] සතුන්))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] මරති)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='T']
+    (PrN[CASE='F1', NUM='pl', PER='T'] ඔවුහු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F2', GEN='MA', NUM='pl'] සතුන්))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] මරති)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='T']
+    (PrN[CASE='F1', NUM='pl', PER='T'] ඔවුහු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F2', GEN='MA', NUM='pl'] සතුන්))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] මරති)))
+(S[]
+  (NP[CASE='F1', GEN=?G, NUM='pl', PER='T']
+    (PrN[CASE='F1', NUM='pl', PER='T'] ඔවුහු))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F2', GEN='MA', NUM='pl'] සතුන්))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] මරති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+    (N[CASE='F1', GEN='NE', NUM='pl'] ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', GEN=?G, NUM='pl', PER='T']
+      (PrN[CASE='F1', NUM='pl', PER='T'] ඔවුහු))
+    (NP[CASE='F2', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F2', GEN='MA', NUM='pl'] සතුන්))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] මරති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F2', GEN=?G, NUM='pl', PER='F']
+      (PrN[CASE='F2', NUM='pl', PER='F'] අප))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] රවටයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F2', GEN=?G, NUM='pl', PER='F']
+      (PrN[CASE='F2', NUM='pl', PER='F'] අප))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] රවටයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F2', GEN=?G, NUM='pl', PER='F']
+      (PrN[CASE='F2', NUM='pl', PER='F'] අප))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] රවටයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F2', GEN=?G, NUM='pl', PER='F']
+      (PrN[CASE='F2', NUM='pl', PER='F'] අප))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] රවටයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F2', GEN=?G, NUM='pl', PER='F']
+      (PrN[CASE='F2', NUM='pl', PER='F'] අප))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] රවටයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F2', GEN=?G, NUM='pl', PER='F']
+      (PrN[CASE='F2', NUM='pl', PER='F'] අප))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] රවටයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F2', GEN=?G, NUM='pl', PER='F']
+      (PrN[CASE='F2', NUM='pl', PER='F'] අප))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] රවටයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F2', GEN=?G, NUM='pl', PER='F']
+      (PrN[CASE='F2', NUM='pl', PER='F'] අප))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] රවටයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F2', GEN=?G, NUM='pl', PER='F']
+      (PrN[CASE='F2', NUM='pl', PER='F'] අප))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] රවටයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+    (NP[CASE='F2', GEN=?G, NUM='pl', PER='F']
+      (PrN[CASE='F2', NUM='pl', PER='F'] අප))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] රවටයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+    (NP[CASE='F2', GEN=?G, NUM='pl', PER='F']
+      (PrN[CASE='F2', NUM='pl', PER='F'] අප))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] රවටයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+    (NP[CASE='F2', GEN=?G, NUM='pl', PER='F']
+      (PrN[CASE='F2', NUM='pl', PER='F'] අප))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] රවටයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බොරු))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කියයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බොරු))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කියයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බොරු))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කියයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බොරු))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කියයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බොරු))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කියයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බොරු))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කියයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බොරු))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කියයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බොරු))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කියයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බොරු))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කියයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බොරු))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කියයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බොරු))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කියයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කපටියා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] බොරු))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] කියයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (IV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ගී))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] කීවාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ගී))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] කීවාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ගී))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] කීවාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ගී))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] කීවාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ගී))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] කීවාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ගී))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] කීවාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ගී))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] කීවාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ගී))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] කීවාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ගී))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] කීවාය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ගී))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] කීවාය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ගී))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='past', +VLT] කීවාය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='FE', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='FE', NUM='sg'] කිරිල්ල))
+  (VP[GEN='FE', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F3', GEN='MA', NUM='pl'] පැටවුන්ට))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ආහාර))
+    (TV[GEN='FE', NUM='sg', PER='T', TENSE='Npast', +VLT] දෙන්නීය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුකුළා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගසට))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] නඟී)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුකුළා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගසට))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] නඟී)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුකුළා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගසට))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] නඟී)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුකුළා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගසට))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] නඟී)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුකුළා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගසට))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] නඟී)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුකුළා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගසට))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] නඟී)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුකුළා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගසට))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] නඟී)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුකුළා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගසට))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] නඟී)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුකුළා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගසට))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] නඟී)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුකුළා))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගසට))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] නඟී)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුකුළා))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගසට))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] නඟී)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුකුළා))
+    (NP[CASE='F3', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='NE', NUM='sg'] ගසට))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] නඟී)))
+(S[]
+  (NP[CASE='F3', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F3', DEF='TRue', GEN='MA', NUM='sg'] කුකුළාට))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] කරමලක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F3', DEF='TRue', GEN='MA', NUM='sg'] කුකුළාට))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] කරමලක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F3', DEF='TRue', GEN='MA', NUM='sg'] කුකුළාට))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] කරමලක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F3', DEF='TRue', GEN='MA', NUM='sg'] කුකුළාට))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] කරමලක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F3', DEF='TRue', GEN='MA', NUM='sg'] කුකුළාට))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] කරමලක්))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F3', DEF='TRue', GEN='MA', NUM='sg'] කුකුළාට))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] කරමලක්))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F3', DEF='TRue', GEN='MA', NUM='sg'] කුකුළාට))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] කරමලක්))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F3', DEF='TRue', GEN='MA', NUM='sg'] කුකුළාට))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] කරමලක්))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F3', DEF='TRue', GEN='MA', NUM='sg'] කුකුළාට))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] කරමලක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='MA', NUM='sg'] කුකුළාට))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] කරමලක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='MA', NUM='sg'] කුකුළාට))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] කරමලක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F3', DEF='TRue', GEN='MA', NUM='sg'] කුකුළාට))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', -DEF, GEN='NE', NUM='sg'] කරමලක්))
+    (TV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] තිබේ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (ADJP[] (Adj[] කුඩා))
+    (N[CASE='F1', GEN='MA', NUM='pl'] ළමයි))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ඔන්චිලි))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] පදිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (ADJP[] (Adj[] කුඩා))
+    (N[CASE='F1', GEN='MA', NUM='pl'] ළමයි))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ඔන්චිලි))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] පදිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (ADJP[] (Adj[] කුඩා))
+    (N[CASE='F1', GEN='MA', NUM='pl'] ළමයි))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ඔන්චිලි))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] පදිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (ADJP[] (Adj[] කුඩා))
+    (N[CASE='F1', GEN='MA', NUM='pl'] ළමයි))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ඔන්චිලි))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] පදිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (ADJP[] (Adj[] කුඩා))
+    (N[CASE='F1', GEN='MA', NUM='pl'] ළමයි))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ඔන්චිලි))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] පදිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (ADJP[] (Adj[] කුඩා))
+    (N[CASE='F1', GEN='MA', NUM='pl'] ළමයි))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ඔන්චිලි))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] පදිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (ADJP[] (Adj[] කුඩා))
+    (N[CASE='F1', GEN='MA', NUM='pl'] ළමයි))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ඔන්චිලි))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] පදිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (ADJP[] (Adj[] කුඩා))
+    (N[CASE='F1', GEN='MA', NUM='pl'] ළමයි))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ඔන්චිලි))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] පදිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (ADJP[] (Adj[] කුඩා))
+    (N[CASE='F1', GEN='MA', NUM='pl'] ළමයි))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ඔන්චිලි))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] පදිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+    (N[CASE='F1', GEN='NE', NUM='pl'] ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+      (ADJP[] (Adj[] කුඩා))
+      (N[CASE='F1', GEN='MA', NUM='pl'] ළමයි))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ඔන්චිලි))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] පදිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+    (ADJP[] (Adj[] කුඩා))
+    (N[CASE='F1', GEN='NE', NUM='pl'] ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F1', GEN='MA', NUM='pl'] ළමයි))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ඔන්චිලි))
+    (TV[NUM='pl', PER='T', TENSE='Npast', +VLT] පදිති)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ඉගිළෙයි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='past', +VLT] ඉගිළුණේය)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කූඩුවෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ලගියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කූඩුවෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ලගියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කූඩුවෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ලගියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කූඩුවෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ලගියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කූඩුවෙහි))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ලගියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කූඩුවෙහි))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ලගියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කූඩුවෙහි))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ලගියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කූඩුවෙහි))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ලගියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කූඩුවෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ලගියි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කූඩුවෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ලගියි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කූඩුවෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ලගියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කුරුල්ලා))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කූඩුවෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] ලගියි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] කොඩිය))
+    (NP[CASE='F5', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F5', DEF='TRue', GEN='NE', NUM='sg'] සුළඟට))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සෙලවේ)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] කොඩිය))
+    (NP[CASE='F5', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F5', DEF='TRue', GEN='NE', NUM='sg'] සුළඟට))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සෙලවේ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='NE', NUM='sg'] කොඩිය))
+    (NP[CASE='F5', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F5', DEF='TRue', GEN='NE', NUM='sg'] සුළඟට))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සෙලවේ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කොල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කුඹුරෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කොල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කුඹුරෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කොල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කුඹුරෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කොල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කුඹුරෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කොල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කුඹුරෙහි))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කොල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කුඹුරෙහි))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කොල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කුඹුරෙහි))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කොල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කුඹුරෙහි))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කොල්ලා))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කුඹුරෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කොල්ලා))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කුඹුරෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කොල්ලා))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කුඹුරෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+    (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+  (VP[GEN='MA', NUM='sg', PER='T', TENSE='Npast']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] කොල්ලා))
+    (NP[CASE='F4', DEF=?TF, GEN='NE', NUM='sg']
+      (N[CASE='F4', DEF='TRue', GEN='NE', NUM='sg'] කුඹුරෙහි))
+    (IV[GEN='MA', NUM='sg', PER='T', TENSE='Npast', +VLT] සිටියි)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+    (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+    (N[CASE='F1', GEN='NE', NUM='pl'] ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+    (N[CASE='F1', GEN='NE', NUM='pl'] ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+    (N[CASE='F1', GEN='NE', NUM='pl'] ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+    (N[CASE='F1', GEN='NE', NUM='pl'] ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='sg']
+      (N[CASE='F1', DEF='TRue', GEN='MA', NUM='sg'] ))
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+    (N[CASE='F1', GEN='NE', NUM='pl'] ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+    (NP[CASE='F1', NUM='sg'] (PropN[CASE='F1', GEN='FE', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+    (N[CASE='F1', GEN='NE', NUM='pl'] ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+    (NP[CASE='F3', NUM='sg'] (PropN[CASE='F3', GEN='MA', NUM='sg'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
+(S[]
+  (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+    (N[CASE='F1', GEN='NE', NUM='pl'] ))
+  (VP[GEN=?G, NUM='pl', PER='T', TENSE='past']
+    (NP[CASE='F1', DEF=?TF, GEN='MA', NUM='pl']
+      (N[CASE='F1', GEN='MA', NUM='pl'] ගම්වැස්සෝ))
+    (NP[CASE='F1', DEF=?TF, GEN='NE', NUM='pl']
+      (N[CASE='F1', GEN='NE', NUM='pl'] ))
+    (ADVP[] (Adv[] එතැනට))
+    (TV[NUM='pl', PER='T', TENSE='past', +VLT] රැස්වූහ)))
