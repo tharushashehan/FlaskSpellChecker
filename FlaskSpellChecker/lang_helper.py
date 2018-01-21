@@ -3,6 +3,7 @@ sinhala = """
 % start S
 # ###################
 # Grammar Productions
+# By Tharusha Shehan Edirisooriya(Bsc)
 # ###################
 
 # S expansion productions
